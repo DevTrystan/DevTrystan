@@ -4,7 +4,7 @@
 
 <h1 align="center">Salut, moi c'est Trystan</h1>
 <h3 align="center">Je suis passioné par la programmation et je souhaite trouver une entreprise pour faire mon CDA en Alternance !</h3>
-<p style="font-weight: 900;">Actuellement, je travail sur un projet en équipe Agile. J'utilise principalement mongoDB/Express/React/NodeJS </p>
+<p style="color:#000;">Actuellement, je travail sur un projet en équipe Agile. J'utilise principalement mongoDB/Express/React/NodeJS </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
