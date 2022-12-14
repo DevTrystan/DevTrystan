@@ -8,13 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/trystan-desousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/trystan-desousa" height="30" width="40" /></a>
-</p>
-<h1 align="center">Salut, moi c'est Trystan</h1>
-<h3 align="center">Je suis passioné par la programmation et je souhaite trouver une entreprise pour faire mon CDA en Alternance !</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trystan-desousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trystan-desousa/" height="30" width="40" /></a>
 </p>
 
