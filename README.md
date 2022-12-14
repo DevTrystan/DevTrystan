@@ -1,5 +1,5 @@
-<p align="center" style="margin-right: 380px">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=0CAE35&width=435&lines=Développeur+Fullstack;I+LIKE+Sports;Code+Addicts" alt="Typing SVG" /></a>
+<p align="center" style="margin-right: 15px">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=0CAE35&width=435&center=true&vCenter=true&lines=Développeur+Fullstack;I+LIKE+Sports;Code+Addicts" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Salut, moi c'est Trystan</h1>
