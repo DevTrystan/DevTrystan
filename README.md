@@ -5,7 +5,7 @@
 <h1 align="center">Salut, moi c'est Trystan</h1>
 <h3 align="center">Je suis passioné par la programmation et je souhaite trouver une entreprise pour faire mon CDA en Alternance !</h3>
 <p style="color:0CAE35&">- Actuellement, je travail sur un projet en équipe Agile. **technos : mongoDB/Express/React/NodeJS**</p>
-<p style="color:0CAE35&">- Je recherche une entreprise pour effectuer mon CDA en alternance (développeur java ou Développeur FullStack)</p>
+<p style="color:0CAE35&">- Je recherche une entreprise pour effectuer mon CDA en alternance (développeur Java ou Développeur FullStack)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
